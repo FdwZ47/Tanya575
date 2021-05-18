@@ -1,4 +1,4 @@
-### read if you want
+### read if you want~
 * <img height="18" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> React
 * <img height="18" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> NodeJS
 * <img height="18" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> Javascript
